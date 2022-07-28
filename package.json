@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ruhiyahfw/nodejs_model_pytorch#readme",
   "dependencies": {
-    "@techainer1t/torch-js": "^0.13.0"
+    "@techainer1t/torch-js": "^0.13.0",
+    "@tensorflow/tfjs-node": "^3.18.0",
+    "jimp": "^0.16.1",
+    "onnxruntime-node": "^1.12.0"
   }
 }
